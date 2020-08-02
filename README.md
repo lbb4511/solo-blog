@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://localhost/my-github-repos)
+* [Java 并发【转载】+【理解】](https://localhost/articles/2020/08/02/1596343245783.html)
 * [道德经](https://localhost/articles/2020/07/17/1594932533780.html)
 * [心经](https://localhost/articles/2020/07/11/1594403638664.html)
 * [悼](https://localhost/articles/2020/07/08/1594200486718.html)
