@@ -5,7 +5,7 @@
 <h4 align="center">冲刷沙粒；汰除沙砾。</h4>
 <p align="center"><a title="丶沙场" target="_blank" href="https://github.com/lbb4511/solo-blog"><img src="https://img.shields.io/github/last-commit/lbb4511/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/lbb4511/solo-blog"><img src="https://img.shields.io/github/repo-size/lbb4511/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/lbb4511/solo-blog.svg"></a></p>
 
 ### 最新
